@@ -20,7 +20,7 @@ One word, 9 characters (gate: 1–30, single word).
 - **Funny:** it names the exact failure mode everyone recognises — the human who holds the pen and never uses it. The joke is the word itself.
 - **Fits:** a manager who circles every decision back for one more meeting, one more opinion, one more week. It reads as true of a real boss, not a random insult.
 - **Vivid and specific:** not a flat label like "busy" or "fine" — a coined portrait a reader remembers and repeats.
-- **Lands on its own:** no explanation needed; the word is the whole joke.
+- **Lands on its own:** no explanation needed; the word is the whole joke. It also survives repetition: say it once in a meeting and the room knows exactly who it means.
 
 ## How it works
 
